@@ -1,0 +1,89 @@
+{
+  "version": "0.6.76.0",
+  "publishedAt": "2026-11-03T21:35:59.812Z",
+  "commit": "5f4fcc7ea2cfe381bcf3c523dafcc008c3ee083f",
+  "packages": [
+    "TumesalistaTPV_0.6.76.0_x64.msix",
+    "TumesalistaTPV_0.6.74.0_x64.msix",
+    "TumesalistaTPV_0.6.72.0_x64.msix"
+  ],
+  "releases": [
+    {
+      "version": "0.6.76.0",
+      "publishedAt": "2026-11-03T21:35:59.812Z",
+      "notes": [
+        "Nuevo: el camarero ve en el móvil cuándo cocina tiene lista su comanda"
+      ]
+    },
+    {
+      "version": "0.6.74.0",
+      "publishedAt": "2026-11-03T20:11:43.368Z",
+      "notes": [
+        "Actualizado el contrato compartido del TPV para preparar los avisos de progreso de cocina"
+      ]
+    },
+    {
+      "version": "0.6.72.0",
+      "publishedAt": "2026-11-03T18:53:51.152Z",
+      "notes": [
+        "pr8"
+      ]
+    },
+    {
+      "version": "0.6.69.0",
+      "publishedAt": "2026-11-03T15:13:28.367Z",
+      "notes": [
+        "pr7"
+      ]
+    },
+    {
+      "version": "0.6.63.0",
+      "publishedAt": "2026-11-03T10:55:47.389Z",
+      "notes": [
+        "Mejoras"
+      ]
+    },
+    {
+      "version": "0.6.61.0",
+      "publishedAt": "2026-11-02T22:46:43.345Z",
+      "notes": [
+        "colores usuarios"
+      ]
+    },
+    {
+      "version": "0.6.55.0",
+      "publishedAt": "2026-10-31T13:43:56.041Z",
+      "notes": [
+        "new vers"
+      ]
+    },
+    {
+      "version": "0.6.53.0",
+      "publishedAt": "2026-10-31T09:42:03.695Z",
+      "notes": [
+        "new version"
+      ]
+    },
+    {
+      "version": "0.6.50.0",
+      "publishedAt": "2026-10-28T18:43:57.750Z",
+      "notes": [
+        "Actualizar estilos"
+      ]
+    },
+    {
+      "version": "0.6.47.0",
+      "publishedAt": "2026-10-28T16:22:20.581Z",
+      "notes": [
+        "mejoras"
+      ]
+    },
+    {
+      "version": "0.4.27.0",
+      "publishedAt": "2026-10-26T20:58:02.894Z",
+      "notes": [
+        "Primera version"
+      ]
+    }
+  ]
+}

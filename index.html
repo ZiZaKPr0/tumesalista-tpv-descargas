@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Tumesalista TPV · canal piloto</title>
+<style>
+  :root { color-scheme: light dark; --fg: #1d232b; --muted: #5d6773; --bg: #f6f7f9; --card: #fff; --line: #dde1e6; --accent: #0b6e4f; }
+  @media (prefers-color-scheme: dark) { :root { --fg: #e8ebef; --muted: #a2abb6; --bg: #14181d; --card: #1c2128; --line: #2c333c; --accent: #4cc39a; } }
+  body { margin: 0; font: 16px/1.55 system-ui, "Segoe UI", sans-serif; color: var(--fg); background: var(--bg); }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 48px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  .muted { color: var(--muted); }
+  section { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; margin-top: 18px; }
+  h2 { font-size: 1.1rem; margin: 0 0 8px; }
+  h3 { font-size: 1rem; margin: 14px 0 4px; }
+  ul { padding-left: 1.3em; margin: 4px 0; }
+  ol { padding-left: 1.3em; margin: 8px 0; }
+  li { margin: 6px 0; }
+  a.button { display: inline-block; background: var(--accent); color: #fff; text-decoration: none; padding: 9px 14px; border-radius: 8px; font-weight: 600; margin: 4px 8px 4px 0; }
+  @media (prefers-color-scheme: dark) { a.button { color: #0d1a14; } }
+  code { font-family: ui-monospace, Consolas, monospace; font-size: .9em; background: var(--bg); border: 1px solid var(--line); border-radius: 5px; padding: 1px 5px; overflow-wrap: anywhere; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Tumesalista TPV</h1>
+  <p class="muted">Canal piloto para el PC de barra · versión 0.6.76 · publicada el 3 de noviembre de 2026 a las 22:35</p>
+
+  <section>
+    <h2>Primera instalación (una vez por PC)</h2>
+    <ol>
+      <li><strong>Certificado de pruebas</strong> (como administrador). Descarga
+        <a href="TumesalistaTPV-pruebas.cer">TumesalistaTPV-pruebas.cer</a>, ábrelo, «Instalar certificado» → «Equipo local» → «Colocar todos los
+        certificados en el siguiente almacén» → «Personas de confianza». O en PowerShell como administrador:<br>
+        <code>Import-Certificate -FilePath .\TumesalistaTPV-pruebas.cer -CertStoreLocation Cert:\LocalMachine\TrustedPeople</code></li>
+      <li><strong>La app.</strong> Descarga <a href="TumesalistaTPV.appinstaller">TumesalistaTPV.appinstaller</a> y ábrelo con doble clic →
+        «Instalar». Así la app sabe dónde mirar si hay versiones nuevas.</li>
+      <li>Abre «Tumesalista TPV» una vez desde el menú Inicio (así arranca sola con Windows).</li>
+    </ol>
+    <p><a class="button" href="TumesalistaTPV-pruebas.cer">Certificado</a><a class="button" href="TumesalistaTPV.appinstaller">Instalar la app</a></p>
+    <p class="muted">Si el doble clic no abre el instalador, en PowerShell (sin administrador):<br>
+      <code>Add-AppxPackage -AppInstallerFile https://zizakpr0.github.io/tumesalista-tpv-descargas/TumesalistaTPV.appinstaller</code></p>
+  </section>
+
+  <section>
+    <h2>Actualizaciones</h2>
+    <p>No hace falta volver aquí. Cuando hay una versión nueva, la app lo avisa y enseña sus novedades; se instala solo
+      cuando el restaurante pulsa «Actualizar», sin descargar nada. Los datos del local (cuentas, tickets, impresoras,
+      activación) se conservan.</p>
+  </section>
+
+  <section>
+    <h2>Novedades</h2>
+    <h3>0.6.76 <span class="muted">· 3 de noviembre de 2026 a las 22:35</span></h3>
+    <ul><li>Nuevo: el camarero ve en el móvil cuándo cocina tiene lista su comanda</li></ul>
+    <h3>0.6.74 <span class="muted">· 3 de noviembre de 2026 a las 21:11</span></h3>
+    <ul><li>Actualizado el contrato compartido del TPV para preparar los avisos de progreso de cocina</li></ul>
+    <h3>0.6.72 <span class="muted">· 3 de noviembre de 2026 a las 19:53</span></h3>
+    <ul><li>pr8</li></ul>
+    <h3>0.6.69 <span class="muted">· 3 de noviembre de 2026 a las 16:13</span></h3>
+    <ul><li>pr7</li></ul>
+    <h3>0.6.63 <span class="muted">· 3 de noviembre de 2026 a las 11:55</span></h3>
+    <ul><li>Mejoras</li></ul>
+  </section>
+
+  <section>
+    <h2>Si ya tenías instalada una versión de prueba</h2>
+    <p>Las versiones instaladas desde un fichero <code>.msix</code> suelto no se actualizan solas. Instala el certificado de
+      arriba y abre el <code>TumesalistaTPV.appinstaller</code>: actualiza la app conservando los datos y, desde ese momento,
+      sigue este canal.</p>
+  </section>
+</main>
+</body>
+</html>
