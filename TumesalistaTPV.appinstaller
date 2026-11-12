@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018" Version="0.6.117.0" Uri="https://zizakpr0.github.io/tumesalista-tpv-descargas/TumesalistaTPV.appinstaller">
+  <MainPackage Name="Tumesalista.TPV" Publisher="CN=Tumesalista Pruebas" Version="0.6.117.0" ProcessorArchitecture="x64" Uri="https://zizakpr0.github.io/tumesalista-tpv-descargas/TumesalistaTPV_0.6.117.0_x64.msix" />
+</AppInstaller>

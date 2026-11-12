@@ -1,0 +1,150 @@
+{
+  "version": "0.6.117.0",
+  "publishedAt": "2026-11-12T11:44:17.871Z",
+  "commit": "4a6b1b6662e501f829b2c038eb8845253e9522fa",
+  "packages": [
+    "TumesalistaTPV_0.6.117.0_x64.msix",
+    "TumesalistaTPV_0.6.107.0_x64.msix",
+    "TumesalistaTPV_0.6.105.0_x64.msix"
+  ],
+  "releases": [
+    {
+      "version": "0.6.117.0",
+      "publishedAt": "2026-11-12T11:44:17.871Z",
+      "notes": [
+        "Marca cada plato como 1º o 2º y usa «Marchar» para enviar los segundos a cocina",
+        "Consulta las fotos de producto en la carta del TPV",
+        "Activa o desactiva las fotos desde Ajustes de este equipo"
+      ]
+    },
+    {
+      "version": "0.6.107.0",
+      "publishedAt": "2026-11-11T17:16:11.439Z",
+      "notes": [
+        "Marca los platos como 1º o 2º y manda los segundos a cocina con «Marchar»",
+        "El plano avisa de los segundos pendientes",
+        "Si la carta tiene fotos de producto, puedes verlas en el TPV y activar u ocultar su vista desde Ajustes."
+      ]
+    },
+    {
+      "version": "0.6.105.0",
+      "publishedAt": "2026-11-11T17:02:13.750Z",
+      "notes": [
+        "Las familias muestran cuántos productos incluyen",
+        "Se distinguen mejor los accesos a tickets, caja, fichar y bloquear",
+        "Volver a la sala desde una cuenta es más claro."
+      ]
+    },
+    {
+      "version": "0.6.103.0",
+      "publishedAt": "2026-11-11T14:31:09.883Z",
+      "notes": [
+        "El nombre del empleado y la fecha y hora aparecen en la barra superior del TPV",
+        "Avisos, venta directa, tickets, caja, fichar y bloquear desde la barra superior",
+        "El plano de mesas aprovecha toda la pantalla y muestra todas las zonas a la vez"
+      ]
+    },
+    {
+      "version": "0.6.99.0",
+      "publishedAt": "2026-11-11T13:18:01.445Z",
+      "notes": [
+        "Modificadores con cantidad, como vasos por botella",
+        "Se muestran en la comanda y en cocina sin cambiar precio ni ticket",
+        "El PC valida los límites configurados para cada producto"
+      ]
+    },
+    {
+      "version": "0.6.97.0",
+      "publishedAt": "2026-11-11T09:09:26.676Z",
+      "notes": [
+        "Teclado táctil en pantalla para escribir, importes y unidades",
+        "Cobros, caja y comandas adaptados al uso táctil",
+        "Mantén pulsado un producto o una línea para acceder a opciones rápidas"
+      ]
+    },
+    {
+      "version": "0.6.95.0",
+      "publishedAt": "2026-11-10T20:57:39.210Z",
+      "notes": [
+        "muchas mejoras"
+      ]
+    },
+    {
+      "version": "0.6.76.0",
+      "publishedAt": "2026-11-03T21:35:59.812Z",
+      "notes": [
+        "Nuevo: el camarero ve en el móvil cuándo cocina tiene lista su comanda"
+      ]
+    },
+    {
+      "version": "0.6.74.0",
+      "publishedAt": "2026-11-03T20:11:43.368Z",
+      "notes": [
+        "Actualizado el contrato compartido del TPV para preparar los avisos de progreso de cocina"
+      ]
+    },
+    {
+      "version": "0.6.72.0",
+      "publishedAt": "2026-11-03T18:53:51.152Z",
+      "notes": [
+        "pr8"
+      ]
+    },
+    {
+      "version": "0.6.69.0",
+      "publishedAt": "2026-11-03T15:13:28.367Z",
+      "notes": [
+        "pr7"
+      ]
+    },
+    {
+      "version": "0.6.63.0",
+      "publishedAt": "2026-11-03T10:55:47.389Z",
+      "notes": [
+        "Mejoras"
+      ]
+    },
+    {
+      "version": "0.6.61.0",
+      "publishedAt": "2026-11-02T22:46:43.345Z",
+      "notes": [
+        "colores usuarios"
+      ]
+    },
+    {
+      "version": "0.6.55.0",
+      "publishedAt": "2026-10-31T13:43:56.041Z",
+      "notes": [
+        "new vers"
+      ]
+    },
+    {
+      "version": "0.6.53.0",
+      "publishedAt": "2026-10-31T09:42:03.695Z",
+      "notes": [
+        "new version"
+      ]
+    },
+    {
+      "version": "0.6.50.0",
+      "publishedAt": "2026-10-28T18:43:57.750Z",
+      "notes": [
+        "Actualizar estilos"
+      ]
+    },
+    {
+      "version": "0.6.47.0",
+      "publishedAt": "2026-10-28T16:22:20.581Z",
+      "notes": [
+        "mejoras"
+      ]
+    },
+    {
+      "version": "0.4.27.0",
+      "publishedAt": "2026-10-26T20:58:02.894Z",
+      "notes": [
+        "Primera version"
+      ]
+    }
+  ]
+}
