@@ -1,0 +1,180 @@
+{
+  "version": "0.6.166.0",
+  "publishedAt": "2026-11-18T20:40:19.823Z",
+  "commit": "c03dbe1af0e8c25c3abaa75f8675f97c4e51af95",
+  "packages": [
+    "TumesalistaTPV_0.6.166.0_x64.msix",
+    "TumesalistaTPV_0.6.148.0_x64.msix",
+    "TumesalistaTPV_0.6.136.0_x64.msix"
+  ],
+  "releases": [
+    {
+      "version": "0.6.166.0",
+      "publishedAt": "2026-11-18T20:40:19.823Z",
+      "notes": [
+        "Nuevo: buscador de productos en la cuenta",
+        "Nuevo: búsqueda de tickets por número o importe, en todo el historial",
+        "Nuevo: lista de reservas de hoy y de mañana, con alergias y notas",
+        "Nuevo: copia de seguridad de los datos cada 30 minutos, en «Diagnóstico → Copias de seguridad»",
+        "Cobro: el botón de cobrar siempre a la vista, «Enviar y cobrar» en un paso y reparto a partes iguales más claro",
+        "Lo que estabas preparando en una mesa ya no se pierde al cambiar de pantalla",
+        "Impresión: una comanda ya no sale dos veces, y la reimpresión de un ticket va marcada como «COPIA»",
+        "Con la caja abierta no se puede actualizar: primero hay que cerrarla",
+        "Mensajes de error en español y pantallas ajustadas a monitores pequeños"
+      ]
+    },
+    {
+      "version": "0.6.148.0",
+      "publishedAt": "2026-11-17T21:32:00.179Z",
+      "notes": [
+        "Nuevo: botón «Socio» al cobrar, para sumar puntos con el QR de su tarjeta, su código o su teléfono",
+        "Nuevo: cobro con tarjeta regalo, con el saldo que le queda impreso en el ticket",
+        "Nuevo: «Olvidé la salida» al fichar, si quedó abierta la jornada de ayer",
+        "Ticket: el QR tributario sale al principio, con la leyenda VERI*FACTU",
+        "Más seguridad fiscal: el PC comprueba la cadena de tickets antes de emitir cada uno y vigila que la hora del ordenador sea correcta"
+      ]
+    },
+    {
+      "version": "0.6.136.0",
+      "publishedAt": "2026-11-16T10:56:08.685Z",
+      "notes": [
+        "Los comanderos y pantallas de cocina vuelven a encontrar el PC aunque el router le cambie la IP",
+        "El PC se anuncia en la red del local aunque tenga tarjetas de red virtuales"
+      ]
+    },
+    {
+      "version": "0.6.130.0",
+      "publishedAt": "2026-11-15T13:41:55.232Z",
+      "notes": [
+        "Nuevo: invita la casa. Mantén pulsada una línea de la cuenta → «Invita la casa…» (puedes elegir cuántas unidades)",
+        "El ticket muestra «Invita la casa» en las líneas invitadas y se descuentan del almacén como una venta",
+        "Si todo está invitado, emite el ticket a 0 € sin cobro",
+        "El informe de ventas muestra las invitaciones aparte"
+      ]
+    },
+    {
+      "version": "0.6.117.0",
+      "publishedAt": "2026-11-12T11:44:17.871Z",
+      "notes": [
+        "Marca cada plato como 1º o 2º y usa «Marchar» para enviar los segundos a cocina",
+        "Consulta las fotos de producto en la carta del TPV",
+        "Activa o desactiva las fotos desde Ajustes de este equipo"
+      ]
+    },
+    {
+      "version": "0.6.107.0",
+      "publishedAt": "2026-11-11T17:16:11.439Z",
+      "notes": [
+        "Marca los platos como 1º o 2º y manda los segundos a cocina con «Marchar»",
+        "El plano avisa de los segundos pendientes",
+        "Si la carta tiene fotos de producto, puedes verlas en el TPV y activar u ocultar su vista desde Ajustes."
+      ]
+    },
+    {
+      "version": "0.6.105.0",
+      "publishedAt": "2026-11-11T17:02:13.750Z",
+      "notes": [
+        "Las familias muestran cuántos productos incluyen",
+        "Se distinguen mejor los accesos a tickets, caja, fichar y bloquear",
+        "Volver a la sala desde una cuenta es más claro."
+      ]
+    },
+    {
+      "version": "0.6.103.0",
+      "publishedAt": "2026-11-11T14:31:09.883Z",
+      "notes": [
+        "El nombre del empleado y la fecha y hora aparecen en la barra superior del TPV",
+        "Avisos, venta directa, tickets, caja, fichar y bloquear desde la barra superior",
+        "El plano de mesas aprovecha toda la pantalla y muestra todas las zonas a la vez"
+      ]
+    },
+    {
+      "version": "0.6.99.0",
+      "publishedAt": "2026-11-11T13:18:01.445Z",
+      "notes": [
+        "Modificadores con cantidad, como vasos por botella",
+        "Se muestran en la comanda y en cocina sin cambiar precio ni ticket",
+        "El PC valida los límites configurados para cada producto"
+      ]
+    },
+    {
+      "version": "0.6.97.0",
+      "publishedAt": "2026-11-11T09:09:26.676Z",
+      "notes": [
+        "Teclado táctil en pantalla para escribir, importes y unidades",
+        "Cobros, caja y comandas adaptados al uso táctil",
+        "Mantén pulsado un producto o una línea para acceder a opciones rápidas"
+      ]
+    },
+    {
+      "version": "0.6.95.0",
+      "publishedAt": "2026-11-10T20:57:39.210Z",
+      "notes": [
+        "muchas mejoras"
+      ]
+    },
+    {
+      "version": "0.6.76.0",
+      "publishedAt": "2026-11-03T21:35:59.812Z",
+      "notes": [
+        "Nuevo: el camarero ve en el móvil cuándo cocina tiene lista su comanda"
+      ]
+    },
+    {
+      "version": "0.6.74.0",
+      "publishedAt": "2026-11-03T20:11:43.368Z",
+      "notes": [
+        "Actualizado el contrato compartido del TPV para preparar los avisos de progreso de cocina"
+      ]
+    },
+    {
+      "version": "0.6.72.0",
+      "publishedAt": "2026-11-03T18:53:51.152Z",
+      "notes": [
+        "pr8"
+      ]
+    },
+    {
+      "version": "0.6.69.0",
+      "publishedAt": "2026-11-03T15:13:28.367Z",
+      "notes": [
+        "pr7"
+      ]
+    },
+    {
+      "version": "0.6.63.0",
+      "publishedAt": "2026-11-03T10:55:47.389Z",
+      "notes": [
+        "Mejoras"
+      ]
+    },
+    {
+      "version": "0.6.61.0",
+      "publishedAt": "2026-11-02T22:46:43.345Z",
+      "notes": [
+        "colores usuarios"
+      ]
+    },
+    {
+      "version": "0.6.55.0",
+      "publishedAt": "2026-10-31T13:43:56.041Z",
+      "notes": [
+        "new vers"
+      ]
+    },
+    {
+      "version": "0.6.53.0",
+      "publishedAt": "2026-10-31T09:42:03.695Z",
+      "notes": [
+        "new version"
+      ]
+    },
+    {
+      "version": "0.6.50.0",
+      "publishedAt": "2026-10-28T18:43:57.750Z",
+      "notes": [
+        "Actualizar estilos"
+      ]
+    }
+  ]
+}
